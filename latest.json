@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.0/Coplan-IntegraPonto-Setup.exe",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "releaseNotes": "Versão inicial do mecanismo de atualização. Instalador ainda não publicado neste canal.",
+  "version": "1.1.1",
+  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.1/Coplan-IntegraPonto-Setup.exe",
+  "sha256": "BC45F300496487787789DDF6A60970051F23BA7EF39825F8C4509B1DF721DBD9",
+  "releaseNotes": "Minimização normal na barra de tarefas, sessão mantida ao minimizar, system tray ao fechar ou sair e melhorias no mecanismo de atualização automática.",
   "mandatory": false
 }
