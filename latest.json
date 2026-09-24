@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.0/Coplan-IntegraPonto-Setup.exe",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "releaseNotes": "Versão inicial do mecanismo de atualização. Instalador ainda não publicado neste canal.",
+  "mandatory": false
+}
