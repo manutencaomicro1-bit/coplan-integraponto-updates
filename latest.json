@@ -1,7 +1,7 @@
 {
-  "version": "1.1.3",
-  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.3/Coplan-IntegraPonto-Setup.exe",
-  "sha256": "97173760A48B5C0F10C1FF1CB595DCD51693626E9053D96E15521D8E8C3E332E",
-  "releaseNotes": "Exibição da janela de progresso durante a instalação da atualização, mantendo o processo automático e as correções de encerramento seguro e preservação do serviço.",
+  "version": "1.1.5",
+  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.5/Coplan-IntegraPonto-Setup.exe",
+  "sha256": "0D5902D2B3B2811057AB63AE2593F5D01C71178B52A44300A7F0359D33591E31",
+  "releaseNotes": "Correção da pasta de trabalho e da substituição dos arquivos durante a atualização; preservação e recuperação automática do serviço; correção do caminho de instalação e do atalho; reabertura automática do aplicativo na tela de login; melhorias no fluxo visual, na segurança e na confiabilidade da atualização automática.",
   "mandatory": false
 }
