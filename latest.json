@@ -1,7 +1,7 @@
 {
-  "version": "1.1.6",
-  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.6/Coplan-IntegraPonto-Setup.exe",
-  "sha256": "6C67CFA3BBC0196F32AC379631BCAE99B61F10C544A26BF15265D8E10B9B5D75",
-  "releaseNotes": "Seleção dos ambientes TEST e PROD; configuração da URL-base do RH com validação HTTPS e teste de acessibilidade; persistência segura no PostgreSQL e configuração compartilhada pelo serviço e aplicativo; confirmação adicional para PROD; travas independentes de integração e execução; compatibilidade com os endpoints da integração; melhorias de segurança e confiabilidade.",
+  "version": "1.1.7",
+  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.7/Coplan-IntegraPonto-Setup.exe",
+  "sha256": "A3CAA60B671C791A664FB664D8DC4A88178F0F5C03AE009696766D5FD3A3C0C4",
+  "releaseNotes": "Novo painel de acompanhamento do processamento de arquivos, com nome do arquivo, estados operacionais, barra de progresso, percentual de envio ao RH, última movimentação e atualização automática a cada 5 segundos.",
   "mandatory": false
 }
