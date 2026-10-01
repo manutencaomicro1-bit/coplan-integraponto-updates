@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
-  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.5/Coplan-IntegraPonto-Setup.exe",
-  "sha256": "0D5902D2B3B2811057AB63AE2593F5D01C71178B52A44300A7F0359D33591E31",
-  "releaseNotes": "Correção da pasta de trabalho e da substituição dos arquivos durante a atualização; preservação e recuperação automática do serviço; correção do caminho de instalação e do atalho; reabertura automática do aplicativo na tela de login; melhorias no fluxo visual, na segurança e na confiabilidade da atualização automática.",
+  "version": "1.1.6",
+  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.6/Coplan-IntegraPonto-Setup.exe",
+  "sha256": "6C67CFA3BBC0196F32AC379631BCAE99B61F10C544A26BF15265D8E10B9B5D75",
+  "releaseNotes": "Seleção dos ambientes TEST e PROD; configuração da URL-base do RH com validação HTTPS e teste de acessibilidade; persistência segura no PostgreSQL e configuração compartilhada pelo serviço e aplicativo; confirmação adicional para PROD; travas independentes de integração e execução; compatibilidade com os endpoints da integração; melhorias de segurança e confiabilidade.",
   "mandatory": false
 }
