@@ -1,7 +1,7 @@
 {
-  "version": "1.1.8",
-  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.8/Coplan-IntegraPonto-Setup.exe",
-  "sha256": "5EF8E985084D60278CD869E7A9E8D21B15D92F48D6D22B33C883640A00D26340",
-  "releaseNotes": "Pendências priorizadas na fila, filtros por situação, total real, paginação no banco, atualização automática e acompanhamento do próximo NSR pendente.",
+  "version": "1.1.9",
+  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.9/Coplan-IntegraPonto-Setup.exe",
+  "sha256": "DEB3883C0921C1FB49E4D6F0175CBEBFC0790108C36C26C38FF0AFC4B8B87EE2",
+  "releaseNotes": "Correção da primeira leitura de arquivos AFD, estabelecimento seguro do NSR-base e prevenção do envio de históricos antigos ao RH.",
   "mandatory": false
 }
