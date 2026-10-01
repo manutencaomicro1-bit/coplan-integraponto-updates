@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
-  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.7/Coplan-IntegraPonto-Setup.exe",
-  "sha256": "A3CAA60B671C791A664FB664D8DC4A88178F0F5C03AE009696766D5FD3A3C0C4",
-  "releaseNotes": "Novo painel de acompanhamento do processamento de arquivos, com nome do arquivo, estados operacionais, barra de progresso, percentual de envio ao RH, última movimentação e atualização automática a cada 5 segundos.",
+  "version": "1.1.8",
+  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.8/Coplan-IntegraPonto-Setup.exe",
+  "sha256": "5EF8E985084D60278CD869E7A9E8D21B15D92F48D6D22B33C883640A00D26340",
+  "releaseNotes": "Pendências priorizadas na fila, filtros por situação, total real, paginação no banco, atualização automática e acompanhamento do próximo NSR pendente.",
   "mandatory": false
 }
