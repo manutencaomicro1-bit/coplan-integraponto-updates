@@ -1,7 +1,7 @@
 {
-  "version": "1.1.9",
-  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.9/Coplan-IntegraPonto-Setup.exe",
-  "sha256": "DEB3883C0921C1FB49E4D6F0175CBEBFC0790108C36C26C38FF0AFC4B8B87EE2",
-  "releaseNotes": "Correção da primeira leitura de arquivos AFD, estabelecimento seguro do NSR-base e prevenção do envio de históricos antigos ao RH.",
+  "version": "1.1.10",
+  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.10/Coplan-IntegraPonto-Setup.exe",
+  "sha256": "2E75DB941532D18B541D09E892E4C65878FDC296AF650E793231C773B0573924",
+  "releaseNotes": "Central de logs de eventos com retenção automática e correção da primeira leitura de arquivos AFD (NSR-base seguro e prevenção de envio de históricos antigos ao RH).",
   "mandatory": false
 }
