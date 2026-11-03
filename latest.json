@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.1.11",
-    "installerUrl":  "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.11/Coplan-IntegraPonto-Setup.exe",
-    "sha256":  "2F8CE1737A27758874EE60D40C1D74F74578D2CACDA625091241F3689A254745",
-    "releaseNotes":  "Registro do conector Finger no catalogo principal e cadastro de dispositivos Finger, mantendo a integracao Topdata. Habilitacao do Finger controlada por ambiente.",
+    "version":  "1.1.12",
+    "installerUrl":  "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.12/Coplan-IntegraPonto-Setup.exe",
+    "sha256":  "E798FA4E8BA70CE11F893AFEA8955465A072FC222766ED81F729A947D7ADF5E3",
+    "releaseNotes":  "Versao de manutencao sobre a 1.1.11: confiabilidade de build e testes. Sem mudanca funcional de conector/captura/RH.",
     "mandatory":  false
 }
