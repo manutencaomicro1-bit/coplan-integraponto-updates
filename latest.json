@@ -1,7 +1,7 @@
-﻿{
-    "version":  "1.1.13",
-    "installerUrl":  "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.13/Coplan-IntegraPonto-Setup.exe",
-    "sha256":  "5EC7ED8263AD2ED4A6B07D77295B728498EB22D7A67AB430E13A9B7DFC8219AB",
-    "releaseNotes":  "Corrige o relancamento do aplicativo apos a atualizacao: o IntegraPonto reabre sem privilegios elevados, evitando o aviso Leitor indisponivel no conector Finger. Sem outras mudancas funcionais.",
-    "mandatory":  false
+{
+  "version": "1.1.14",
+  "installerUrl": "https://github.com/manutencaomicro1-bit/coplan-integraponto-updates/releases/download/v1.1.14/Coplan-IntegraPonto-Setup.exe",
+  "sha256": "F3847C02F733BABEBA77028314CC5066A47AECFE233A7F6083059EC00A834A5A",
+  "releaseNotes": "Versão 1.1.14: registro Finger por código, sessão operacional reutilizável, menu de terminal, correção de horário local e arquitetura multidispositivo.",
+  "mandatory": false
 }
